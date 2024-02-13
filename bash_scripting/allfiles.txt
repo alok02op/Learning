@@ -1,0 +1,16 @@
+01_basic.sh
+02_basic.sh
+allfiles.txt
+arguement_passing.sh
+case.sh
+conditional.sh
+functions.sh
+loops.sh
+names.txt
+operators.sh
+rough.sh
+sample.csv
+some_other.sh
+string_operations.sh
+user_int.sh
+/Users/alokkumar/Desktop/learn/bash_scripting
