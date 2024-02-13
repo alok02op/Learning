@@ -73,7 +73,7 @@ This is page 2.
 # 9- Images and Figures with link
 
 from local
-[IMG](img.png)
+[IMG](img.jpeg)
 
 from online pictures
 ---
@@ -118,13 +118,18 @@ My junior details :-
 [face of text](#5---face-of-text)
 
 # 13-Install Extensions
-
+```
+markdown all in one\
+markdown pdf\
+markdownlint\
+markdown shortcuts
+```
 **Sample Text**\
 **Bold** command B\
 *Italic* command I\
 ***Bold and Italic*** command I B\
 [classroom](https://classroom.google.com/c/NjUzNjg4ODgyNTE2) ctrl L\
-![image](img.png) ctrl+shift L\
+![image](img.jpeg) ctrl+shift L\
 ```
 for code block -> ctrl+M and ctrl+C
 
